@@ -1,2 +1,10 @@
 I am test!
+<<<<<<< HEAD
 I am real!
+=======
+
+first person change;
+
+This is from windows.
+
+>>>>>>> b0fdeaba6e839752d22a4284b06a5e6412a1c45c
